@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>logo_circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo">
+            <g id="arrow" transform="translate(1.000000, 0.000000)" fill="#B71C1C">
+                <path d="M719,496 L204,920 L44.000304,304 L225,670 L527,304 L463,240 L872,151 L783,560 L719,496 Z"></path>
+            </g>
+            <g id="sword" transform="translate(387.000000, 215.000000)">
+                <path d="M45.171962,360.828038 L117,289 L61,233 L77,217 L109,249 L333,25 L422,0 L397,89 L173,313 L205,345 L189,361 L133,305 L61.171962,376.828038 C62.9886745,380.845192 64,385.304492 64,390 C64,407.673112 49.673112,422 32,422 C14.326888,422 0,407.673112 0,390 C0,372.326888 14.326888,358 32,358 C36.6955078,358 41.1548079,359.011325 45.171962,360.828038 Z" fill="#FFFFFF"></path>
+                <path d="M357,49 L379,43 L373,65 L165,273 L149,257 L357,49 Z" id="fuller" fill="#B71C1C"></path>
+            </g>
+        </g>
+    </g>
+</svg>
